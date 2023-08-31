@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\EntityFramework",
+    "\\EntityLayer",
+    "\\EntityLayer\\Concrete"
+  ],
+  "SelectedNode": "\\EntityLayer\\Concrete\\Comment.cs",
+  "PreviewInSolutionExplorer": false
+}

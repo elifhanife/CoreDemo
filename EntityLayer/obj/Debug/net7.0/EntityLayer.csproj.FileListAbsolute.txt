@@ -1,7 +1,6 @@
 C:\Users\hanif\Desktop\.NET CORE PROJE\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
 C:\Users\hanif\Desktop\.NET CORE PROJE\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
 C:\Users\hanif\Desktop\.NET CORE PROJE\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
-C:\Users\hanif\Desktop\.NET CORE PROJE\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
 C:\Users\hanif\Desktop\.NET CORE PROJE\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hanif\Desktop\.NET CORE PROJE\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
 C:\Users\hanif\Desktop\.NET CORE PROJE\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
